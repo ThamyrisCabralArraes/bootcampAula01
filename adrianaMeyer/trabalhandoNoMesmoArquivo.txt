@@ -1,7 +1,10 @@
 
-Arquivo de teste para que a gente possa trabalhar juntas :)
-Participante B está digitando no arquivo. 
+
+
+
+Passo 1: Arquivo de teste para que a gente possa trabalhar juntas :)
+
+Passo 2: Incluindo alterações para aprendermos sobre o gerenciamento de conflitos.
+
+Passo 3: Participante B está digitando no arquivo. 
 Minha criatividade está zero.
-
-
-
