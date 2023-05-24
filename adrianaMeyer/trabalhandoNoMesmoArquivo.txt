@@ -8,3 +8,5 @@ Passo 2: Incluindo alterações para aprendermos sobre o gerenciamento de confli
 
 Passo 3: Participante B está digitando no arquivo. 
 Minha criatividade está zero.
+
+Passo 4: Criando um novo conflito
